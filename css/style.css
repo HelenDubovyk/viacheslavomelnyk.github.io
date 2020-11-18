@@ -760,9 +760,10 @@ h3 {
 
 /* line 13, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav {
-  background: #fff;
+  background: #615CFD;
   float: right;
   margin-top: 0;
+  text-align: center;
   padding: 0;
   width: 95%;
   padding: 0;
@@ -778,12 +779,12 @@ h3 {
 /* line 28, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #5DB2FF;
+  color: #fff;
 }
 
 /* line 32, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav a.active {
-  color: #5DB2FF;
+  color: #fff;
 }
 
 @media (max-width: 767px) {
